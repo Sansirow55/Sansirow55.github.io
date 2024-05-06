@@ -1,0 +1,90 @@
+.bloco_fundo{
+    background-color: #0B0C10;
+}
+
+body{
+    background-color:  #1F2833;
+}
+
+h1,h2,h3{
+    color: white;
+    font-family:Arial, Helvetica, sans-serif;
+    text-shadow: 0.3px 0.3px;
+    margin: auto;
+    text-align:center;
+    width: 50%;
+    padding: 50px;
+    margin-bottom: 100px;
+}
+h1{
+    color:#66FCF1;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+h3{
+    border: 3px solid #66FCF1;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+section{
+    margin-bottom:300px;
+    
+}
+strong{
+    color: #66FCF1;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+    text-shadow: 0.3px 0.3px;
+    margin: auto;
+    text-align:center;
+    padding: 50px;
+}
+p{
+    font-family:Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: x-large;
+    padding: 50px;
+}
+
+.icones_midia_social{
+    margin:auto;
+    width: 49%;
+    padding: 0px;
+    text-align: center;
+    user-select: none;
+    
+}
+
+#github,#linkedin{
+    color:#66FCF1
+}
+
+#projetos{
+    position:relative;
+    border: 3px solid #66FCF1;
+    margin-bottom: 0;
+}
+
+#projeto_gmail{
+    width:100%;
+}
+#print_gmail,#print_php,#print_notas{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    
+}
+
+#rodape{
+    background-color: #1F2833;
+    margin-bottom: 0;
+}
+footer{
+
+    padding:50px;
+}
+
+#p_email,#p_numero{
+    padding: 0;
+}
